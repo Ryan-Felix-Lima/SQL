@@ -1,0 +1,6 @@
+1 - SELECT Nome,Ano FROM Filmes
+2 - SELECT Nome,Ano FROM Filmes by Ano
+3 - SELECT * FROM Filmes by Nome = 'de volta para o futuro'
+4 - SELECT * FROM Filmes by Ano = 1997
+5 - SELECT * FROM Filmes by Ano >2000
+6 - SELECT * FROM Filmes by Duracao > 100 and Duracao < 150
